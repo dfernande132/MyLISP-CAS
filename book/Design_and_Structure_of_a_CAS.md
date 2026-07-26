@@ -1,5 +1,7 @@
 # Design and Structure of a CAS: Symbolic Programming in LISP
 
+### Jose Daniel Fernandez Santos (@dfsantos1)
+
 ## Part I — Learning LISP through MyLISP
 
 *Reference implementations: MyLISP/QL (Prospero Pro Pascal · Sinclair QL) and MyLISP/Next (Z88DK C · ZX Spectrum Next)*
