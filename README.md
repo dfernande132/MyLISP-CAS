@@ -97,7 +97,7 @@ El código y el libro están aquí para quien quiera leerlos, aprender de ellos,
 
 ## Licencia
 
-Ver el repositorio para condiciones de uso.
+Puedes leer, copiar, imprimir y compartir libremente el libro y el código de este repositorio, incluso contárselo a quien quieras. Lo único que no está permitido es hacer negocio con ello ni obtener ningún beneficio económico de su venta o redistribución sin mi autorización expresa.
 
 ---
 
@@ -199,4 +199,4 @@ The code and the book are here for anyone who wants to read them, learn from the
 
 ## License
 
-See the repository for usage terms.
+You're free to read, copy, print, and share this repository's book and code with anyone. The only thing not allowed is doing business with it or profiting from its sale or redistribution without my express permission.
