@@ -58,7 +58,8 @@ No hace falta saber LISP para empezar. Sí hace falta curiosidad por ver, de ver
 
 ## Requisitos
 
-- El intérprete **MyLISP** (v1.0 o posterior) para QL o para ZX Spectrum Next: [github.com/dfernande132/MyLISP](https://github.com/dfernande132/MyLISP)
+- El intérprete **MyLISP** (v1.0 o posterior) para QL: [github.com/dfernande132/MyLISP](https://github.com/dfernande132/MyLISP)
+- El intérprete **MyLISP** (v1.0 o posterior) para ZX Spectrum Next: [github.com/dfernande132/MyLISP_NEXT](https://github.com/dfernande132/MyLISP_NEXT)
 - Nada más. El CAS es un único fichero fuente en LISP puro, sin dependencias.
 
 ## Cómo usarlo
@@ -160,7 +161,8 @@ You don't need to know LISP to start. You do need the curiosity to see, for real
 
 ## Requirements
 
-- The **MyLISP** interpreter (v1.0 or later) for QL or ZX Spectrum Next: [github.com/dfernande132/MyLISP](https://github.com/dfernande132/MyLISP)
+- The **MyLISP** interpreter (v1.0 or later) for QL: [github.com/dfernande132/MyLISP](https://github.com/dfernande132/MyLISP)
+- The **MyLISP** interpreter (v1.0 or later) for ZX Spectrum Next: [github.com/dfernande132/MyLISP_NEXT](https://github.com/dfernande132/MyLISP_NEXT)
 - Nothing else. The CAS is a single pure-LISP source file, with no dependencies.
 
 ## Usage
